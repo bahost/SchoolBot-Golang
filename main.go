@@ -9,7 +9,7 @@ import (
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
 
-const token = "5855804962:AAFy4ZSAWjB3x_dCPCLGX1IDHZUyg5ZHx98"
+const token = "token"
 
 const mainGreetingsMessage = "Привет,\nМеня зовут StudentBot, я помогу тебе устроиться в нашу школу иностранных языков"
 const mainSchoolInfoMessage = "Мы - LevelUP Language School\nМы занимаемся обучением студентов англискому и тайскому языкам\nНаша школа расположена тут:\nhttps://maps.app.goo.gl/X4aR9ceH58iFPTVcA?g_st=ic"
